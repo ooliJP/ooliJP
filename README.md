@@ -1,5 +1,5 @@
+![ooli](https://user-images.githubusercontent.com/69134308/172515109-21b55323-29d7-497c-a85a-08b8554ec9e2.gif)
 
-https://user-images.githubusercontent.com/69134308/172514617-c1f29a68-042a-43b5-84ca-194ecbbaaf5c.gif
 
 - 🔭 I’m currently working on some personal projects to help my future employer understand better my skill level.
 - 🌱 I’m currently learning Java, Python and just a little bit of JS, MySQL.
