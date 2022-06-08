@@ -6,6 +6,6 @@
 - 👯 I’m looking to collaborate on anything to get better, improve my skills and achieve goals.
 - 🤔 I’m looking for help with whatever you can teach me! I'm always ready to learn something new.
 - 💬 Ask me about anything you want to know that I know :D. If you really want to ask something, feel free to contact me right here 👇 
-- 📫 How to reach me: [instagram](https://www.instagram.com/mamishov.u), [twitter](twitter.com/uliJP6)
+- 📫 How to reach me: [instagram](https://www.instagram.com/mamishov.u), [twitter](https://twitter.com/ulijp6)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I refused to play for e-sports team to be a programmer 🥶
