@@ -1,7 +1,6 @@
-<!--<h3 align="center">
+
 ![image](![ooli](https://user-images.githubusercontent.com/69134308/172514617-c1f29a68-042a-43b5-84ca-194ecbbaaf5c.gif)
 )
-</h3> -->
 
 - 🔭 I’m currently working on some personal projects to help my future employer understand better my skill level.
 - 🌱 I’m currently learning Java, Python and just a little bit of JS, MySQL.
